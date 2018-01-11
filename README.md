@@ -1,7 +1,6 @@
 # weathers(spider)
-## models:html5lib(or lxml),requests,BeautifulSoup
-## python
-## Purpose:Getting the weather information of China from http://www.weather.com.cn/ by python
+### models:html5lib(or lxml),requests,BeautifulSoup
+### Purpose:Getting the weather information of China from http://www.weather.com.cn/ by python
 ### ording to the code,we analysis the tags,split them and obtain information what we want.
 ```
   provice:{
