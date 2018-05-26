@@ -1,4 +1,5 @@
 # weathers(spider)
+利用python爬取天气信息使用
 ### models:html5lib(or lxml),requests,BeautifulSoup
 ### Purpose:Getting the weather information of China from http://www.weather.com.cn/ by python
 ### ording to the code,we analysis the tags,split them and obtain information what we want.
